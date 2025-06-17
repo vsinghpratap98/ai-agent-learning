@@ -1,4 +1,3 @@
-17-06-2025
 🤖 What is Hugging Face?
 Hugging Face is a company and open-source community that builds and hosts powerful tools for machine learning, especially natural language processing (NLP), computer vision, speech, and now agents and LLMs.
 
